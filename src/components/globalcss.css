@@ -1,0 +1,14 @@
+.transfercss{
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid black;
+    box-shadow: 5px;
+    background-color: beige;
+}
+.receiptcss{
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid rgb(88, 7, 7);
+    box-shadow: 5px;
+    background-color: rgb(163, 163, 149);
+}
